@@ -1,0 +1,79 @@
+ [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey", "What's up?", "How are you?", "Hey there"],
+        "responses": ["Hey there!", "Hello! How can I assist you?", "Hi! What's on your mind?", "Hey! Hope you're having a great day!"]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye", "Take care", "Catch you later"],
+        "responses": ["Goodbye! Have a great day!", "See you later!", "Take care!", "Until next time!"]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thank you", "Thanks", "I appreciate it", "Much appreciated"],
+        "responses": ["You're very welcome!", "No problem at all!", "Happy to help!", "Glad I could assist you!"]
+      },
+      {
+        "tag": "about",
+        "patterns": ["Who are you?", "What can you do?", "Tell me about yourself", "What's your purpose?"],
+        "responses": ["I'm a chatbot designed to assist you!", "I'm here to answer your questions and help you with various topics.", "Think of me as your virtual assistant, always ready to help!"]
+      },
+      {
+        "tag": "help",
+        "patterns": ["I need help", "Can you help me?", "What should I do?", "Help me"],
+        "responses": ["Of course! What do you need help with?", "I'm here to assist. Let me know what you need!", "How can I make things easier for you today?"]
+      },
+      {
+        "tag": "age",
+        "patterns": ["How old are you?", "What's your age?", "When were you created?"],
+        "responses": ["I don’t age like humans, but I’m as fresh as the latest update!", "I exist in the digital world, so time is just a concept to me!", "Let's just say I was born in the cloud!"]
+      },
+      {
+        "tag": "weather",
+        "patterns": ["What's the weather like?", "How's the weather today?", "Is it raining outside?"],
+        "responses": ["I can't check real-time weather, but you can try a weather app!", "For accurate weather updates, I recommend checking a weather website!", "I wish I could tell you, but checking a weather app might be better!"]
+      },
+      {
+        "tag": "joke",
+        "patterns": ["Tell me a joke", "Make me laugh", "Say something funny"],
+        "responses": ["Why don’t skeletons fight each other? They don’t have the guts!", "I told my laptop I needed a break, and now it won’t stop sending me vacation ads!", "Parallel lines have so much in common. It’s a shame they’ll never meet."]
+      },
+      {
+        "tag": "motivation",
+        "patterns": ["Motivate me", "I need motivation", "Give me some inspiration"],
+        "responses": ["The best time to start was yesterday. The next best time is now!", "You are capable of amazing things. Keep going!", "Success starts with the decision to try."]
+      },
+      {
+        "tag": "news",
+        "patterns": ["Tell me the latest news", "What's happening in the world?", "Give me some news updates"],
+        "responses": ["You can check the latest news on trusted sources like BBC, CNN, or Google News!", "Staying informed is great! Try a news app or website for real-time updates."]
+      },
+      {
+        "tag": "sports",
+        "patterns": ["Who is the best football player?", "Tell me about cricket", "Latest sports news?"],
+        "responses": ["Messi and Ronaldo are considered two of the greatest footballers ever!", "Cricket is a popular sport played with a bat and ball, loved in countries like India and Australia!", "You can check ESPN or Sports Illustrated for the latest sports news!"]
+      },
+      {
+        "tag": "history",
+        "patterns": ["Tell me a historical fact", "Who was the first president?", "What happened in 1945?"],
+        "responses": ["The first U.S. president was George Washington!", "In 1945, World War II ended.", "History is full of amazing events! What era are you interested in?"]
+      },
+      {
+        "tag": "food",
+        "patterns": ["Suggest me a dish", "Best vegetarian food?", "What should I eat?"],
+        "responses": ["Try a delicious pasta dish!", "Paneer Tikka is a great vegetarian option!", "Why not go for a fresh salad or a smoothie?"]
+      },
+      {
+        "tag": "relationship_advice",
+        "patterns": ["Give me relationship advice", "How do I impress someone?", "Tips for a strong relationship?"],
+        "responses": ["Communication and trust are key in any relationship!", "Be yourself and treat others with kindness!", "A strong relationship is built on honesty, respect, and love!"]
+      },
+      {
+        "tag": "health",
+        "patterns": ["How to stay healthy?", "Give me health tips", "Best diet for fitness?"],
+        "responses": ["Drink plenty of water, eat a balanced diet, and stay active!", "Avoid processed foods and focus on whole, natural ingredients!", "Sleep, exercise, and a nutritious diet are essential for good health!"]
+      }
+    ]
+
+  

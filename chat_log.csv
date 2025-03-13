@@ -1,0 +1,88 @@
+User Input,Chatbot Response,Timestamp
+Hello,Hello! How can I assist you?,2025-03-12 21:08:17
+Sports,Hello! How can I assist you?,2025-03-12 21:08:46
+"file_path = os.path.abspath(""intents.json"")",Hi! What's on your mind?,2025-03-12 21:09:10
+Suggest me a dish,Why not go for a fresh salad or a smoothie?,2025-03-12 21:09:17
+Tell me the latest news,"You can check the latest news on trusted sources like BBC, CNN, or Google News!",2025-03-12 21:09:30
+Hello,Hi! What's on your mind?,2025-03-12 21:09:51
+How are you,Hey there!,2025-03-12 21:10:00
+ksajdfbskjdbf,Hey there!,2025-03-12 21:10:07
+Sports,Hey there!,2025-03-12 21:10:13
+best football player,Messi and Ronaldo are considered two of the greatest footballers ever!,2025-03-12 21:10:20
+hello,Hi! What's on your mind?,2025-03-13 10:48:18
+hello,Hi! What's on your mind?,2025-03-13 10:48:22
+hi,Hey! Hope you're having a great day!,2025-03-13 10:48:26
+good morning,Hello! How can I assist you?,2025-03-13 10:48:38
+test,Hey! Hope you're having a great day!,2025-03-13 10:48:44
+football,Hey! Hope you're having a great day!,2025-03-13 10:48:49
+player,Hey! Hope you're having a great day!,2025-03-13 10:48:58
+football player,Hey! Hope you're having a great day!,2025-03-13 10:49:10
+best football player,Messi and Ronaldo are considered two of the greatest footballers ever!,2025-03-13 10:49:22
+fact,Hey! Hope you're having a great day!,2025-03-13 10:49:32
+news,Staying informed is great! Try a news app or website for real-time updates.,2025-03-13 10:49:44
+joke,Hi! What's on your mind?,2025-03-13 15:36:43
+tell me a joke\,Why donâ€™t skeletons fight each other? They donâ€™t have the guts!,2025-03-13 15:36:49
+joke,Hello! How can I assist you?,2025-03-13 15:36:54
+tell me a joke,"I told my laptop I needed a break, and now it wonâ€™t stop sending me vacation ads!",2025-03-13 15:38:09
+Tell me a joke,Why don’t skeletons fight each other? They don’t have the guts!,2025-03-13 15:39:53
+HelloHello,Hello! How can I assist you?,2025-03-13 15:45:25
+Hello,Hey there!,2025-03-13 15:46:50
+Hello,Hey! Hope you're having a great day!,2025-03-13 15:48:45
+hello,Hey! Hope you're having a great day!,2025-03-13 15:49:31
+hello,Hi! What's on your mind?,2025-03-13 15:50:04
+hello,Hello! How can I assist you?,2025-03-13 15:50:22
+Tell me a joke,Why don’t skeletons fight each other? They don’t have the guts!,2025-03-13 15:52:46
+Hello,Hey! Hope you're having a great day!,2025-03-13 15:53:06
+Tell me  a joke,Why don’t skeletons fight each other? They don’t have the guts!,2025-03-13 15:53:33
+Hello,Hello! How can I assist you?,2025-03-13 15:54:14
+Hello,Hey there!,2025-03-13 15:54:33
+Hello4,Hey! Hope you're having a great day!,2025-03-13 15:54:33
+Hello,Hey there!,2025-03-13 15:54:35
+Hello,Hey! Hope you're having a great day!,2025-03-13 15:55:05
+Hello4,Hello! How can I assist you?,2025-03-13 15:55:07
+Hello,Hey! Hope you're having a great day!,2025-03-13 15:55:24
+goodbye,Until next time!,2025-03-13 15:55:54
+bye,Take care!,2025-03-13 15:56:53
+weather,"I wish I could tell you, but checking a weather app might be better!",2025-03-13 15:57:36
+hello,Hi! What's on your mind?,2025-03-13 15:57:46
+weather,"For accurate weather updates, I recommend checking a weather website!",2025-03-13 15:58:10
+about,I'm a chatbot designed to assist you!,2025-03-13 15:58:40
+hello,Hey there!,2025-03-13 15:59:11
+Hello,Hey! Hope you're having a great day!,2025-03-13 15:59:36
+Hello4,Hey! Hope you're having a great day!,2025-03-13 15:59:38
+Hello,Hey! Hope you're having a great day!,2025-03-13 16:00:00
+Motivation,The best time to start was yesterday. The next best time is now!,2025-03-13 16:00:36
+Hello,Hey there!,2025-03-13 16:07:20
+thanks,Happy to help!,2025-03-13 16:09:22
+thanks,You're very welcome!,2025-03-13 16:10:36
+help,Of course! What do you need help with?,2025-03-13 16:11:30
+Hello,Hey! Hope you're having a great day!,2025-03-13 16:13:46
+Hello,Hello! How can I assist you?,2025-03-13 16:15:12
+Hello,Hey there!,2025-03-13 16:16:15
+age,Hi! What's on your mind?,2025-03-13 16:18:16
+history,Hey! Hope you're having a great day!,2025-03-13 16:20:38
+hello,Hello! How can I assist you?,2025-03-13 16:22:29
+Hello,Hello! How can I assist you?,2025-03-13 16:24:00
+hello,Hello! How can I assist you?,2025-03-13 16:24:14
+Hello,Hello! How can I assist you?,2025-03-13 16:25:08
+Hello,Hey there!,2025-03-13 16:31:35
+Hello,Hi! What's on your mind?,2025-03-13 16:33:19
+age,Hey there!,2025-03-13 16:33:27
+Age,Hey! Hope you're having a great day!,2025-03-13 16:33:33
+what is your age,Let's just say I was born in the cloud!,2025-03-13 16:33:38
+what is weather,"For accurate weather updates, I recommend checking a weather website!",2025-03-13 16:33:45
+tell me game,Why don’t skeletons fight each other? They don’t have the guts!,2025-03-13 16:33:54
+what is a good game to play,Hello! How can I assist you?,2025-03-13 16:34:07
+good games,Hello! How can I assist you?,2025-03-13 16:34:15
+what is sports,Hey there!,2025-03-13 16:34:23
+tell me who is messi,I'm here to answer your questions and help you with various topics.,2025-03-13 16:34:31
+tell me who ,I'm a chatbot designed to assist you!,2025-03-13 16:34:40
+who is president,Hey! Hope you're having a great day!,2025-03-13 16:37:12
+who is president of india,Hi! What's on your mind?,2025-03-13 16:37:18
+Hello,Hey there!,2025-03-13 16:38:45
+Goodbye,Take care!,2025-03-13 16:38:50
+Goodbye,See you later!,2025-03-13 16:38:55
+Goodbye,See you later!,2025-03-13 16:39:59
+Hey there,Hello! How can I assist you?,2025-03-13 17:39:46
+I need help,How can I make things easier for you today?,2025-03-13 17:42:31
+Suggest me a dish,Try a delicious pasta dish!,2025-03-13 17:44:42
